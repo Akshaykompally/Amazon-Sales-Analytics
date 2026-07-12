@@ -98,7 +98,7 @@ images/dashboard.png
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Akshaykompally/Amazon-Sales-Dashboard.git
+git clone https://github.com/Akshaykompally/Amazon-Sales-Analytics.git
 ```
 
 ### 2. Open the Project
